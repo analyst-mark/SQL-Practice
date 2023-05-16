@@ -16,6 +16,8 @@ We need to create an id for each column to differentiate each record - we can do
 ![](src/4.png)
 
 now we have 3 columns  id, name, quantity
+
+
 ![](src/5.png)
 
 
