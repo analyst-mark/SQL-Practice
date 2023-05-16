@@ -6,7 +6,7 @@ Grocery list
 -  Dark Chocolate bars  -2 
 
 We use " Create table  --name of the table--" ( name of colum  data- type)
-![[1.png]]
+![(1.png)]
 
 this show that the table has 2 columns
 ![[3.png]]
