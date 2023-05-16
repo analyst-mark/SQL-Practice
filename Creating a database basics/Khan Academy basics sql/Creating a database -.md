@@ -27,4 +27,6 @@ We can start to insert records into the table by using
 
 ![[Pasted image 20230516153321.png]]
 
-
+---
+obsidianUIMode: preview
+---
