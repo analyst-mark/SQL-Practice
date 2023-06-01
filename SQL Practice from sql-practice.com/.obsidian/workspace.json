@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "611f398fbe9f7436",
+    "type": "split",
+    "children": [
+      {
+        "id": "ad82a22446250b20",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a0671a207123e9ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SQL Practice Easy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bc5c44f5589e8ee5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SQL Practice Medium.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "175e61f943fb0349",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SQL Practice Hard.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "957cffe3277bc00a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SQL Practice Medium.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "57e4b2120caaab18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "North Wind Question (Easy ,Medium, Hard).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "067980e19ec8fba7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "20dcf1d7a43d468c",
+    "type": "split",
+    "children": [
+      {
+        "id": "863cf05586424c93",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6be1fcc58b59eea8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "82580188966d17ef",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e62cb58b7ebf3643",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5c7fef36d78d9220",
+    "type": "split",
+    "children": [
+      {
+        "id": "a4bdaf67227cfea5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02a0134bf37b1728",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2d75940dacdeb077",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Untitled.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "862d9f1cdbb817b4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "849d64a11bd060df",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Untitled.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "067980e19ec8fba7",
+  "lastOpenFiles": [
+    "North Wind Question (Easy ,Medium, Hard).md",
+    "Untitled.md",
+    "src-img/Pasted image 20230525180006.png",
+    "src-img/Pasted image 20230525180000.png",
+    "src-img/Pasted image 20230525153852.png",
+    "src-img/Pasted image 20230525153847.png",
+    "src-img/Pasted image 20230525153521.png",
+    "src-img/Pasted image 20230525153515.png",
+    "src-img/Pasted image 20230525153340.png",
+    "src-img/Pasted image 20230525153334.png",
+    "src-img/Pasted image 20230525132159.png",
+    "src-img/Pasted image 20230525132154.png",
+    "SQL Practice Medium.md",
+    "SQL Practice Hard.md",
+    "SQL Practice Easy.md",
+    "SQL Practice Easy 1.md"
+  ]
+}
