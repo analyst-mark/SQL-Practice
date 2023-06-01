@@ -1,2 +1,2 @@
-# SQL
-Collection of SQL Pratice from different sites
+# SQL Practice
+Collection of SQL Pratice queries from different sites
